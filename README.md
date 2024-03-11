@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E"> </a>
+  <a href="#"><img src="https://img.shields.io/badge/Java Script-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E"> </a>
   <a href="#"><img src="https://img.shields.io/badge/Qt-QML-008000?style=for-the-badge&labelColor=black&logo=qt&logoColor=008000"></a>
   <br>
   <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-20-F58220?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=F58220"></a>
