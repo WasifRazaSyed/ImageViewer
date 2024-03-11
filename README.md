@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Qt-QML-008000?style=for-the-badge&labelColor=black&logo=qt&logoColor=008000">
   <br>
   <img src="https://img.shields.io/badge/C%2B%2B-20-F58220?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=F58220">
-  <img src="https://img.shields.io/badge/Qt-6.5.3-008000?style=for-the-badge&labelColor=black&logo=qt&logoColor=008000">
+  <img src="https://img.shields.io/badge/Qt-6.6.1-008000?style=for-the-badge&labelColor=black&logo=qt&logoColor=008000">
 </p>
 
 # Image Viewer 
