@@ -14,7 +14,7 @@
 
 ## Overview
 
-This QML application built with Qt, C++ and JS enables user to traverse through the local directories and view images of different extensions.
+This QML application built with Qt, C++ and JS enables the user to traverse through the local directories and view images of different extensions.
 
 ## Feedback
 
