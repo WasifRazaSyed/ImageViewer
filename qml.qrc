@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>script.js</file>
+        <file>ico/icons8-full-screen-30.png</file>
+        <file>ico/icons8-left-arrow-30.png</file>
+        <file>ico/icons8-open-30.png</file>
+        <file>ico/icons8-right-arrow-30.png</file>
+        <file>ico/icons8-zoom-in-30.png</file>
+        <file>ico/icons8-zoom-out-30.png</file>
+        <file>MyIcon.qml</file>
+    </qresource>
+</RCC>
